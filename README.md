@@ -3,6 +3,8 @@
 
 A Simple React App Which uses [Breakig Bad API](https://breakingbadapi.com/) to fetch Data and displays them.
 
+### [Live](https://bbadapi.herokuapp.com/)
+
 1. Clone the repo
 2. install all dependencies by running ```npm install ``` from root folder.
 3. to run App ```npm start```
